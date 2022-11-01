@@ -1,0 +1,21 @@
+{
+	"name": "vite",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"dev": "vite --host",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"postcss-preset-env": "^7.8.2",
+		"sass": "^1.55.0",
+		"vite": "^3.2.0",
+		"vite-plugin-compression": "^0.5.1",
+		"vite-plugin-mock": "^2.9.6"
+	}
+}

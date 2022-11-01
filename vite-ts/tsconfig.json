@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"moduleResolution": "node",
+		"skipLibCheck": true, // 使否跳過node_modules
+		"module": "ESNext",
+		"lib": ["ES2015", "DOM"],
+		"allowSyntheticDefaultImports": true
+	}
+}
