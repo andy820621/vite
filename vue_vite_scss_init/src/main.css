@@ -1,0 +1,12 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+html,
+body {
+	background-color: #282f38;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+}
